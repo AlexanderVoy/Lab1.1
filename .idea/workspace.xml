@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BT_Java_1-master:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef928df6-e956-4681-bd7d-7902c9cc2a9f" name="Default Changelist" comment="lab_1">
+      <change afterPath="$PROJECT_DIR$/.idea/BT_Java_1-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BT_Java_1_master_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cars.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/BT_Java_1_master_jar/BT_Java_1-master.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/Serialize/ISerialize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/Serialize/Serialize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/controller/CRUD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/controller/Compare/CompareByMake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/controller/Compare/CompareByModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/controller/Compare/CompareByYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/controller/Comparerer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/dao/DaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/dao/VehicleDao/IVehicleDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/dao/VehicleDao/VehicleDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/AutoBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/BodyType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/FuelType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/TransmissionType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/TruckCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/entity/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/presentation/ConsoleReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BT_Java_1-master/by/bsuir/autobase/presentation/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/META-INF/lab1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/AutoBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/BodyType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/FuelType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/Trade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/TransmissionType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/TruckCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/AutoBase/entity/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/by/bsuir/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/Serialize/ISerialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/Serialize/Serialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/controller/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/controller/Compare/CompareByMake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/controller/Compare/CompareByModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/controller/Compare/CompareByYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/controller/Comparerer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/dao/VehicleDao/IVehicleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/dao/VehicleDao/VehicleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/AutoBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/BodyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/FuelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/TransmissionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/TruckCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/entity/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/presentation/ConsoleReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/autobase/presentation/View.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1440" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectId" id="1Tnct15FY4trZHEYX0ElBrsmQ4N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574084813700" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.Main" />
+      <module name="BT_Java_1-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="BT_Java_1-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef928df6-e956-4681-bd7d-7902c9cc2a9f" name="Default Changelist" comment="" />
+      <created>1574074095965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574074095965</updated>
+      <workItem from="1574099550125" duration="1642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab_1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>BT_Java_1-master:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BT_Java_1-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
